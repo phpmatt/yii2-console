@@ -7,3 +7,5 @@ config/db.php
 ### 运行
 1. ./yii serve --port=1024
 2. http://localhost:1024/console
+
+### 一个带管理员登录的后台管理模板
