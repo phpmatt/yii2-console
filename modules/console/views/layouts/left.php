@@ -36,7 +36,7 @@
                       'icon' => 'file',
                       'url' => '#',
                       'items' => [
-                        ['label' => '文章列表', 'icon' => '', 'url' => ['/console/content']],
+                        ['label' => '文章', 'icon' => '', 'url' => ['/console/content']],
                       ]
                     ],
                     ['label' => 'Gii', 'icon' => 'file-code-o', 'url' => ['/gii']],
